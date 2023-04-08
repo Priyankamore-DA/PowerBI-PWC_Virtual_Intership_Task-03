@@ -221,7 +221,7 @@ Figure 3 shows visualizations from `Services`
 
 
 Figure 4 shows visualizations from `Email / Insights and suggestion`
-![image]
+![image].(https://github.com/Priyankamore-DA/PowerBI-PWC_Virtual_Intership_Task-03/blob/main/4.png)
 
 
 
