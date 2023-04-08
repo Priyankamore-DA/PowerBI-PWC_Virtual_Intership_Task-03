@@ -208,8 +208,7 @@ As shown by Data Visualization, It can be deduced that:
 #### Dashboard image
 Figure 1 shows visualizations from `Demographic` Info
 
-![image](https://user-images.githubusercontent.com/127341700/227794003-eabb02dd-3e8e-40c8-9611-79bedba25ce7.png)
-![image]
+![image].(https://github.com/Priyankamore-DA/PowerBI-PWC_Virtual_Intership_Task-03/blob/main/1.png)
 
 Figure 2 shows visualizations from `Account Info`
 
@@ -217,7 +216,8 @@ Figure 2 shows visualizations from `Account Info`
 
 
 Figure 3 shows visualizations from `Services`
-![image]
+
+![image].(https://github.com/Priyankamore-DA/PowerBI-PWC_Virtual_Intership_Task-03/blob/main/3.png)
 
 
 
