@@ -209,7 +209,7 @@ As shown by Data Visualization, It can be deduced that:
 Figure 1 shows visualizations from `Demographic` Info
 
 ![image](https://user-images.githubusercontent.com/127341700/227794003-eabb02dd-3e8e-40c8-9611-79bedba25ce7.png)
-
+![image]
 
 Figure 2 shows visualizations from `Account Info`
 ![image]
