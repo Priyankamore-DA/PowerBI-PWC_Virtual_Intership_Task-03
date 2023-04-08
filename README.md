@@ -212,7 +212,8 @@ Figure 1 shows visualizations from `Demographic` Info
 ![image]
 
 Figure 2 shows visualizations from `Account Info`
-![image]
+
+![image].(https://github.com/Priyankamore-DA/PowerBI-PWC_Virtual_Intership_Task-03/blob/main/2.png)
 
 
 Figure 3 shows visualizations from `Services`
@@ -221,6 +222,7 @@ Figure 3 shows visualizations from `Services`
 
 
 Figure 4 shows visualizations from `Email / Insights and suggestion`
+
 ![image].(https://github.com/Priyankamore-DA/PowerBI-PWC_Virtual_Intership_Task-03/blob/main/4.png)
 
 
