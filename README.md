@@ -209,25 +209,23 @@ As shown by Data Visualization, It can be deduced that:
 
 | Figure 1 shows visualizations from `Demographic` Info |
 | ----------- |
-| ![image].(https://github.com/Priyankamore-DA/PowerBI-PWC_Virtual_Intership_Task-03/blob/main/1.png)|
+| ![image](https://github.com/Priyankamore-DA/PowerBI-PWC_Virtual_Intership_Task-03/blob/main/1.png?raw=true))|
 
-Figure 2 shows visualizations from `Account Info`
-
-![image].(https://github.com/Priyankamore-DA/PowerBI-PWC_Virtual_Intership_Task-03/blob/main/2.png)
-
-
-Figure 3 shows visualizations from `Services`
-
-![image].(https://github.com/Priyankamore-DA/PowerBI-PWC_Virtual_Intership_Task-03/blob/main/3.png)
-
-
-
-Figure 4 shows visualizations from `Email / Insights and suggestion`
-
-![image].(https://github.com/Priyankamore-DA/PowerBI-PWC_Virtual_Intership_Task-03/blob/main/4.png)
-
-| Figure 2 |
+|Figure 2 shows visualizations from `Account Info` |
 | ----------- |
+|![image](https://github.com/Priyankamore-DA/PowerBI-PWC_Virtual_Intership_Task-03/blob/main/2.png)|
+
+
+|Figure 3 shows visualizations from `Services` |
+| ----------- |
+|![image](https://github.com/Priyankamore-DA/PowerBI-PWC_Virtual_Intership_Task-03/blob/6e472af04e1005f8a18acf75da20f8577027c879/2.png)|
+
+
+|Figure 4 shows visualizations from `Email / Insights and suggestion` |
+| ----------- |
+|![image](https://github.com/Priyankamore-DA/PowerBI-PWC_Virtual_Intership_Task-03/blob/main/4.png)|
+
+
 
 
 
