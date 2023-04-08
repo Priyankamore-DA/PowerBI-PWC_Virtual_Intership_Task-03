@@ -138,39 +138,23 @@ Data visualization for the datasets was done in Microsoft Power BI Desktop:
 #### Data Analysis
 Measures used in visualization are:
 
-•	`Answered_call` = CALCULATE(COUNT('Fact Table'[Call Id]),FILTER('Fact Table','Fact Table'[Answered (Y/N)]="Y"))
+•	`%churn` = ([churn count]/COUNT('01 Churn-Dataset'[customerID]))*100
 
-•	`Resolved count` = CALCULATE(COUNT('Fact Table'[Call Id]),'Fact Table'[Resolved]="Y")
+•	`Avg_monthly charges` = AVERAGE('01 Churn-Dataset'[MonthlyCharges])
 
-•	`Avg_rating` = AVERAGE('Fact Table'[Satisfaction rating])
+•	`Avg_tenure` =AVERAGE('01 Churn-Dataset'[tenure])
 
-•	`Average speed of answer` = AVERAGE('Fact Table'[Speed of answer in seconds])
+•	`churn count` = CALCULATE(COUNT('01 Churn-Dataset'[customerID]),'01 Churn-Dataset'[Churn]="yes")
 
-•	`Target Value Satisfaction` = 4.5
+•	`Female_customers` = CALCULATE(COUNT('01 Churn-Dataset'[customerID]),'01 Churn-Dataset'[gender]="female")
 
-•	`%Call Answered` = DIVIDE('All Measuress'[Answered_call],[Total_calls],0)
+•	`Male` = CALCULATE(COUNT('01 Churn-Dataset'[customerID]),'01 Churn-Dataset'[gender]="Male")
 
-•	`%call resolved` = DIVIDE([Resolved count],[Total_calls],0)
+•`Total no of customers` = COUNT('01 Churn-Dataset'[customerID])
 
-•	`%Call Unanswered` = DIVIDE([Not_answered],[Total_calls],0)
+•	`Retained count` = CALCULATE([Total no of customers],'01 Churn-Dataset'[Churn]="No")
 
-•	`%call unresolved` = DIVIDE('All Measuress'[Unreolved count],[Total_calls],0)
-
-•	`Agent_slicer` = DISTINCTCOUNT('Fact Table'[Agent])
-
-•	`Average speed of answer(IN MIN)` = DIVIDE('All Measuress'[Average speed of answer],60,0)
-
-•	`Avg duration of talk` = AVERAGE('Fact Table'[AvgTalkDuration])
-
-•	`Avg talk of duration (IN MIN)` = DIVIDE('All Measuress'[Avg duration of talk],60,0)
-
-•	`No of agent` = CALCULATE(DISTINCTCOUNT('Fact Table'[Agent]))
-
-•	`Not_answered` = CALCULATE(COUNT('Fact Table'[Call Id]),FILTER('Fact Table','Fact Table'[Answered (Y/N)]="N"))
-
-•	`Total_calls` = COUNTROWS('Fact Table')
-
-•	`Unreolved count` = CALCULATE(COUNT('Fact Table'[Resolved]),'Fact Table'[Resolved]="N")
+•	`Revenew lost` = CALCULATE(SUM('01 Churn-Dataset'[TotalCharges]),'01 Churn-Dataset'[Churn]="yes")
 
 
 #### Insights
