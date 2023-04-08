@@ -206,9 +206,10 @@ As shown by Data Visualization, It can be deduced that:
 •	Offering basic services like device protection, tech support, and online security should be the primary goal. This will help the customer stay longer with the brand.
 
 #### Dashboard image
-Figure 1 shows visualizations from `Demographic` Info
 
-![image].(https://github.com/Priyankamore-DA/PowerBI-PWC_Virtual_Intership_Task-03/blob/main/1.png)
+| Figure 1 shows visualizations from `Demographic` Info |
+| ----------- |
+| ![image].(https://github.com/Priyankamore-DA/PowerBI-PWC_Virtual_Intership_Task-03/blob/main/1.png)|
 
 Figure 2 shows visualizations from `Account Info`
 
@@ -225,6 +226,8 @@ Figure 4 shows visualizations from `Email / Insights and suggestion`
 
 ![image].(https://github.com/Priyankamore-DA/PowerBI-PWC_Virtual_Intership_Task-03/blob/main/4.png)
 
+| Figure 2 |
+| ----------- |
 
 
 
